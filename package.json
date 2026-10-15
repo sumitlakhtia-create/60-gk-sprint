@@ -1,0 +1,9 @@
+{
+  "name": "60-gk-sprint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first GK quiz and UPSC/SSC PYQ practice prototype",
+  "scripts": {
+    "build": "echo Static app: use www/index.html"
+  }
+}
